@@ -1,4 +1,7 @@
-div {
-    color:royalblue;
+.box {
+    display: flex;
     
+}
+.box {
+    flex-direction: row;
 }
